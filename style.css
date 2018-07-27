@@ -1,0 +1,15 @@
+.container{
+    margin-left: 5%;
+    width: 60%;
+    height: 450px;
+    border: 1.5px solid #ccc;
+}
+
+.container-fluid{
+    margin-left: 5%;
+}
+
+
+h1{
+    color:#979797;
+}
